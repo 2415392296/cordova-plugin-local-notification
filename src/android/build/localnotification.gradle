@@ -27,6 +27,6 @@ if (!project.ext.has('appShortcutBadgerVersion')) {
 
 if (!project.ext.has('appShortcutBadgerCustom')) {
     dependencies {
-        implementation "com.github.amosschann:ShortcutBadger:${appShortcutBadgerVersion}"
+        implementation "com.github.2415392296:ShortcutBadger:${appShortcutBadgerVersion}"
     }
 }
